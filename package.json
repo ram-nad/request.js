@@ -33,7 +33,7 @@
   "dependencies": {
     "@octokit/endpoint": "^5.1.0",
     "@octokit/request-error": "^1.0.1",
-    "deprecation": "^2.0.0",
+    "deprecation": "^2.1.0",
     "is-plain-object": "^3.0.0",
     "node-fetch": "^2.3.0",
     "once": "^1.4.0",
